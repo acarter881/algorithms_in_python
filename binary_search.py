@@ -1,5 +1,5 @@
 def bs_algorithm(s_list, key):
-    """'s_list must be a sorted list'"""
+    """s_list must be a sorted list"""
 
     mid = int(len(s_list) / 2)
 
